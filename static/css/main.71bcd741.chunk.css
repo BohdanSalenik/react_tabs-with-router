@@ -1,0 +1,2 @@
+.nav__list{display:flex;padding:0;margin-top:5vh;list-style:none}.nav__item{margin-right:10px;border:1px solid #ccc;border-radius:4px}.nav__item--tabs{width:100px;text-align:center}.nav__link{display:block;padding:5px;text-decoration:none;transition:background-color .2s ease-in-out}.nav__link:hover{text-decoration:none}.active,.active-main,.nav__link:hover{background-color:#ccc}.active{display:block}
+/*# sourceMappingURL=main.71bcd741.chunk.css.map */
